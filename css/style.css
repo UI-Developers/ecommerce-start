@@ -20,3 +20,14 @@
 .nav-link:hover {
 	color: #037bc0;
 }
+
+/* BG Images */
+.bg-image {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+.main-image {
+	background-image: url(../img/main.jpg);
+	height: 35rem;
+}
