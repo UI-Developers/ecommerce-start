@@ -4,6 +4,9 @@
   --primary-color: #037bc0;
   --secondary-color: #8cbc00;
 }
+.bg-primary {
+	background-color: #037bc0!important;
+}
 .title {
 	font-family: 'Playfair Display', serif;
 }
@@ -41,4 +44,10 @@
 }
 .categories a:hover {
 	text-decoration: none;
+}
+
+/* About Us */
+.about-us-image {
+	background-image: url(../img/aboutus.jpg);
+	min-height: 35rem;
 }
