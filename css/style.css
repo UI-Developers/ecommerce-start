@@ -64,3 +64,12 @@ h2 {
 	border-color: #8cbc00!important;
 	text-transform: uppercase!important;
 }
+
+/* Footer */
+.footer {
+	border-top: 1px solid #e1e1e1;
+}
+
+.footer-menu .nav-link {
+	color: #666666!important;
+}
